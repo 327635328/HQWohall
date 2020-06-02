@@ -1,0 +1,6 @@
+framework module HQWohall {
+  umbrella header "HQWohall-umbrella.h"
+
+  export *
+  module * { export * }
+}

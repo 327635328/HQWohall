@@ -7,7 +7,7 @@
 //
 
 #import "HQViewController.h"
-
+//#import "HQWohallTool.h"
 @interface HQViewController ()
 
 @end
@@ -17,6 +17,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor yellowColor];
+//    HQWohallTool * tool = [[HQWohallTool alloc]init];
+//    [tool showTest];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

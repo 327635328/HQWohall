@@ -1,0 +1,6 @@
+framework module Pods_HQWohall_Example {
+  umbrella header "Pods-HQWohall_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		159286BA8B7187CD0BBAAC51 /* HQWohall.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HQWohall.podspec; path = ../HQWohall.podspec; sourceTree = "<group>"; };
+		159286BA8B7187CD0BBAAC51 /* HQWohall.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HQWohall.podspec; path = ../HQWohall.podspec; sourceTree = "<group>"; };
 		16BED9A64B1D0136AD29081E /* Pods_HQWohall_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HQWohall_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		23705CF12E82E174425C30DF /* Pods-HQWohall_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HQWohall_Example.release.xcconfig"; path = "Target Support Files/Pods-HQWohall_Example/Pods-HQWohall_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* HQWohall_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HQWohall_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,12 +61,12 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		68AB745F43359E66BBAB9776 /* Pods-HQWohall_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HQWohall_Tests.debug.xcconfig"; path = "Target Support Files/Pods-HQWohall_Tests/Pods-HQWohall_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7425482B9B1913F71388146D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7425482B9B1913F71388146D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		878105FC0E64A4C34ACB3C68 /* Pods_HQWohall_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HQWohall_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D91AA62B18540D89776EAF7 /* Pods-HQWohall_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HQWohall_Example.debug.xcconfig"; path = "Target Support Files/Pods-HQWohall_Example/Pods-HQWohall_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B424E44572F15A0862ABEEED /* Pods-HQWohall_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HQWohall_Tests.release.xcconfig"; path = "Target Support Files/Pods-HQWohall_Tests/Pods-HQWohall_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D0901D11BC8096D6F1B345D0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D0901D11BC8096D6F1B345D0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,6 @@
 				68AB745F43359E66BBAB9776 /* Pods-HQWohall_Tests.debug.xcconfig */,
 				B424E44572F15A0862ABEEED /* Pods-HQWohall_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

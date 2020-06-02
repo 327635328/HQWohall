@@ -1,0 +1,16 @@
+PODS:
+  - HQWohall (0.1.0)
+
+DEPENDENCIES:
+  - HQWohall (from `../`)
+
+EXTERNAL SOURCES:
+  HQWohall:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HQWohall: b868ba1a6de619722003a2cdfb03fa6bcf7bcf1d
+
+PODFILE CHECKSUM: fa824bd0f6a43baf56632dbe790f9bda84bce77e
+
+COCOAPODS: 1.8.4
