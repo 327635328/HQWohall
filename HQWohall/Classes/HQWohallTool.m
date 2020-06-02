@@ -12,7 +12,7 @@
 
 -(void)showTest
 {
-    NSLog(@"s你好");
+    NSLog(@"s你好aaa");
     
 }
 
